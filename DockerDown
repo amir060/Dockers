@@ -1,0 +1,3 @@
+#!/bin/bash
+docker-compose -f /Users/amirouchemadaoui/eclipse-workspace/DockerValidation/docker-compose-v3-swarm.yml down 
+

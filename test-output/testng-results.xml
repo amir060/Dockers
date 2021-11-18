@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25261" started-at="2021-11-14T18:53:15 PST" finished-at="2021-11-14T18:53:41 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25261" started-at="2021-11-14T18:53:15 PST" finished-at="2021-11-14T18:53:41 PST">
+      <class name="remoteTesting.DockerValidation.ChromeTest2">
+        <test-method status="PASS" signature="starDockerFile()[pri:0, instance:remoteTesting.DockerValidation.ChromeTest2@2145b572]" name="starDockerFile" is-config="true" duration-ms="12022" started-at="2021-11-14T18:53:15 PST" finished-at="2021-11-14T18:53:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starDockerFile -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:remoteTesting.DockerValidation.ChromeTest2@2145b572]" name="test2" duration-ms="5138" started-at="2021-11-14T18:53:27 PST" finished-at="2021-11-14T18:53:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="stopDockerDeleteFile()[pri:0, instance:remoteTesting.DockerValidation.ChromeTest2@2145b572]" name="stopDockerDeleteFile" is-config="true" duration-ms="8009" started-at="2021-11-14T18:53:33 PST" finished-at="2021-11-14T18:53:41 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDockerDeleteFile -->
+      </class> <!-- remoteTesting.DockerValidation.ChromeTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
